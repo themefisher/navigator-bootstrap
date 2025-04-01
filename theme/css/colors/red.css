@@ -5,13 +5,6 @@
  * GITHUB: https://github.com/themefisher/
  */
 
-@-webkit-keyframes preloader {
-  25% {
-    height: 30px;
-    transform: translateY(15px);
-    background: #FF432E;
-  }
-}
 @keyframes preloader {
   25% {
     height: 30px;
@@ -61,10 +54,10 @@
   background-color: #FF432E;
 }
 .development-steps .step-3 {
-  background: #fa1900;
+  background: rgb(250, 25.1196172249, 0);
 }
 .development-steps .step-4 {
-  background: #e11700;
+  background: rgb(224.5, 22.5574162679, 0);
 }
 
 .services .service-block.color-bg {
