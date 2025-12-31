@@ -1,6 +1,6 @@
 # Navigator Free Bootstrap Business Template
 
-![navigator](https://demo.themefisher.com/thumbnails/navigator.png)
+![navigator](https://assets.teamosis.com/thumbs/navigator.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/navigator/)
 
